@@ -1,0 +1,8 @@
+{
+	"dev" : {
+		"app" : {
+			"host" : "localhost",
+			"port" : 9800
+		}
+	}
+}
